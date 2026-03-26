@@ -10,4 +10,4 @@ def test_even():
     assert is_even(4) == True
 
 def test_fail():
-    assert is_even(5) == True
+    assert is_even(5) == False
