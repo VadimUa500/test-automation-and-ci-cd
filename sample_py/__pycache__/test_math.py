@@ -1,4 +1,4 @@
-from math_utils import add, divide, is_even
+from sample_py.math_utils import add, divide, is_even
 
 def test_add():
     assert add(2, 3) == 5
